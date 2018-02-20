@@ -1,0 +1,43 @@
+﻿@model IEnumerable<ZooAppViewModels.ViewFoodAnimalTotal>
+
+@{
+    ViewBag.Title = "IndexDetails";
+}
+
+
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.AnimalName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TotalQuantity)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TotalPrice)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.AnimalName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TotalQuantity)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TotalPrice)
+        </td>
+        <td>
+           
+            @Html.ActionLink("Details", "Details", new { id=item.Id }) |
+            
+        </td>
+    </tr>
+}
+
+</table>

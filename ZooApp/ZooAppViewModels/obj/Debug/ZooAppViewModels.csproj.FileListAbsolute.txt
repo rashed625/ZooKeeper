@@ -1,0 +1,12 @@
+C:\Users\rashed\Documents\Visual Studio 2015\Projects\ZooApp\ZooAppViewModels\bin\Debug\ZooAppViewModels.dll
+C:\Users\rashed\Documents\Visual Studio 2015\Projects\ZooApp\ZooAppViewModels\bin\Debug\ZooAppViewModels.pdb
+C:\Users\rashed\Documents\Visual Studio 2015\Projects\ZooApp\ZooAppViewModels\obj\Debug\ZooAppViewModels.csprojResolveAssemblyReference.cache
+C:\Users\rashed\Documents\Visual Studio 2015\Projects\ZooApp\ZooAppViewModels\obj\Debug\ZooAppViewModels.dll
+C:\Users\rashed\Documents\Visual Studio 2015\Projects\ZooApp\ZooAppViewModels\obj\Debug\ZooAppViewModels.pdb
+C:\Users\rashed\Documents\Visual Studio 2015\Projects\ZooApp\ZooAppViewModels\bin\Debug\Zoo.cs.dll
+C:\Users\rashed\Documents\Visual Studio 2015\Projects\ZooApp\ZooAppViewModels\bin\Debug\EntityFramework.dll
+C:\Users\rashed\Documents\Visual Studio 2015\Projects\ZooApp\ZooAppViewModels\bin\Debug\Zoo.cs.pdb
+C:\Users\rashed\Documents\Visual Studio 2015\Projects\ZooApp\ZooAppViewModels\bin\Debug\EntityFramework.xml
+C:\Users\rashed\Documents\Visual Studio 2015\Projects\ZooApp\ZooAppViewModels\bin\Debug\ZooAppViewModels.dll.config
+C:\Users\rashed\Documents\Visual Studio 2015\Projects\ZooApp\ZooAppViewModels\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rashed\Documents\Visual Studio 2015\Projects\ZooApp\ZooAppViewModels\bin\Debug\EntityFramework.SqlServer.xml
